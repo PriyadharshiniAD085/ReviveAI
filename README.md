@@ -23,4 +23,4 @@ Failed payments can represent significant lost revenue for businesses. Tradition
 
 ### Core Flow
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ff3992ac-96d3-4c3a-ad30-f0c1fb1df491" />
+<img width="524" height="836" alt="image" src="https://github.com/user-attachments/assets/ff3992ac-96d3-4c3a-ad30-f0c1fb1df491" />
