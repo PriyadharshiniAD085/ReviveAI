@@ -1,4 +1,4 @@
-# ReviveAI — AI Revenue Recovery Control Tower
+## ReviveAI — AI Revenue Recovery Control Tower
 
 **Turn failed payments into recoverable revenue.**
 
