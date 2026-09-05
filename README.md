@@ -8,7 +8,7 @@ It continuously analyzes failed transactions, uses machine learning to identify 
 
 ---
 
-# 🚀 Overview
+### 🚀 Overview
 
 Failed payments can represent significant lost revenue for businesses. Traditional systems often stop at identifying a failed transaction without determining:
 
@@ -21,27 +21,6 @@ Failed payments can represent significant lost revenue for businesses. Tradition
 
 **ReviveAI addresses this gap by combining AI/ML, policy-based decision making, automated recovery, human escalation, and auditability into one control tower.**
 
-# Core Flow
+### Core Flow
 
-Failed Transactions
-        ↓
-   AI Detection
-        ↓
-    Diagnosis
-        ↓
- ML Recovery Prediction
-        ↓
-   Policy Engine
-        ↓
- ┌───────────────┐
- │ Decision      │
- └───────────────┘
-     ↓       ↓
-Automated   Human
-Recovery    Review
-     ↓       ↓
-     └───┬───┘
-         ↓
- Revenue Recovered
-         ↓
-    Audit Trail
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ff3992ac-96d3-4c3a-ad30-f0c1fb1df491" />
